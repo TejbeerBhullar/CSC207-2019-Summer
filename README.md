@@ -1,2 +1,2 @@
 # CSC207-2019-Summer
-Software Design 
+Software Design Class at University of Toronto
